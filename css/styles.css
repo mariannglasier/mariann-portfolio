@@ -76,7 +76,7 @@ footer {
 
 .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 25%));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 3fr));
     gap: 20px;
 }
 
