@@ -1,10 +1,10 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    color: #800000;
+    color: #310b0b;
     margin: 0;
     padding: 0;
-    background-color: #FFDBE9;
+    background-color: #ffe9ec;
 }
 
 .container {
@@ -13,9 +13,9 @@ body {
 }
 
 header {
-    background-color: #800000;
+    background-color: #310b0b;
     padding: 20px 0;
-    color: #FFDBE9;
+    color: #ffe9ec;
 }
 
 nav ul {
@@ -49,11 +49,11 @@ p {
 }
 
 footer {
-    background-color: #800000;
+    background-color: #310b0b;
     color: white;
     text-align: center;
     padding: 20px 0;
-    color: #FFDBE9
+    color: #ffe9ec;
 }
 
 /* Home Page Styles */
