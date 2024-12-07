@@ -75,7 +75,6 @@ footer {
 }
 
 .gallery-grid {
-    display: grid;
     float: left;
     width: 50%;
     gap: 20px;
